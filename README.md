@@ -1,4 +1,4 @@
-# SQL_Music_store_data_Analysis
+# SQL Music store data Analysis
 #### This Project teach me how to Analyze the music playlist database. I examine the database with SQL and help the store to understand its business growth by answering simple Questions. 
 Here My Database Schema : 
 
